@@ -18,8 +18,9 @@ setuptools.setup(
     platforms=['any'],
     classifiers=[
         "Programming Language :: Python :: 3",
+        "Programming Language :: Python :: 2.7",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.5',
+    python_requires='>=2.7',
 )
