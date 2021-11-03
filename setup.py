@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ho600-ltd-python-libraries",
-    version="0.0.2",
+    version="0.0.3",
     author="ho600 Ltd.",
     author_email="libraries@ho600.com",
     description="Utils and Libraries collection from ho600 Ltd.",
